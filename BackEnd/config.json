@@ -1,0 +1,12 @@
+{
+    "model_name": "llama-3.3-70b-versatile",
+    "tool_choice": "auto",
+    "max_tokens": 4096,
+    "pdfPath": "KB_PDF",
+    "vectorDBPath": "utils/vectorDB",
+    "modelName":"sentence-transformers/all-mpnet-base-v2",
+    "modelArgs":{"device": "cpu"},
+    "encodekwargs":{"normalize_embeddings": false},
+    "temperature": 0.2,
+    "openai_model_name": "gpt-4o"
+}

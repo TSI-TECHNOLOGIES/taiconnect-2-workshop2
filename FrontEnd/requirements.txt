@@ -1,0 +1,4 @@
+streamlit
+git+https://github.com/openai/whisper.git
+streamlit_float
+gtts

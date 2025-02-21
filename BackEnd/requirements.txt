@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+groq
+langchain-community
+pandas
+sentence-transformers
+chromadb
+pypdf
+openai

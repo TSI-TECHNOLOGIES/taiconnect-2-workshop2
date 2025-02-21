@@ -1,0 +1,6 @@
+{
+    "chatBotURL": "http://host.docker.internal:8000/chatbot/",
+    "embeddingURL": "http://host.docker.internal:8000/embedding/",
+    "audioInputPath": "audio/input/temp_audio.mp3",
+    "audioOutputPath": "audio/output/temp_audio.wav"
+}
