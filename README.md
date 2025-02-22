@@ -96,3 +96,9 @@ This command builds the Docker images and starts both the **frontend** and **bac
 
 ---
 Happy Coding! 🚀
+
+
+LICENSE
+GNU GENERAL PUBLIC LICENSE WITH NON-COMMERCIAL RESTRICTION
+Version 1.0, TSI Technologies Pvt. Ltd., 2025
+
