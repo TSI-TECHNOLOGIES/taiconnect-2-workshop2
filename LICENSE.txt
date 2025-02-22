@@ -20,7 +20,7 @@ You are granted a worldwide, royalty-free, non-exclusive license to use, reprodu
 - You comply with all conditions of this License.
 
 3. Non-Commercial Restriction
-You may not use, modify, or distribute the Program for any Commercial Use without prior written permission from the copyright holder ([Your Name or Organization]).
+You may not use, modify, or distribute the Program for any Commercial Use without prior written permission from the copyright holder (Talentship).
 Any attempt to engage in Commercial Use without permission constitutes a violation of this License and automatically terminates your rights hereunder.
 
 4. Copyleft Requirement
@@ -42,7 +42,7 @@ You may convey a work based on the Program, provided you:
 - Ensure recipients are aware of their rights and obligations.
 
 7. Additional Terms
-The copyright holder reserves the right to grant exceptions to the non-commercial restriction on a case-by-case basis. Contact [Your Email] for inquiries regarding commercial licensing.
+The copyright holder reserves the right to grant exceptions to the non-commercial restriction on a case-by-case basis. Contact events@talentship.io for inquiries regarding commercial licensing.
 
 8. Termination
 - Your rights under this License terminate automatically if you violate any term, including the non-commercial restriction.

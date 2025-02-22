@@ -56,7 +56,8 @@ def getPatientDetails(mobileNumber):
         scope = "scope_patient"
         function_description = "The purpose of this function is to get the patient details like his history of appoinment etc."
         mobileNumber_description = "Patient mobile number to get the patient details"
-        patient_data = patientDF[patientDF["mobilenumber"] == int(mobileNumber)]
+        patient_data_df = patientDF[patientDF["mobilenumber"] == int(mobileNumber)]
+        patient_data = patient_data_df[['patinet_name','appoinmentsheduledTime','isNoShow','patientEmailID']]
         return str(patient_data)
     except Exception as e:
         return str(e)

@@ -3,7 +3,7 @@
     "tool_choice": "auto",
     "max_tokens": 4096,
     "pdfPath": "KB_PDF",
-    "vectorDBPath": "utils/vectorDB",
+    "vectorDBPath": "src/vectorDB",
     "modelName":"sentence-transformers/all-mpnet-base-v2",
     "modelArgs":{"device": "cpu"},
     "encodekwargs":{"normalize_embeddings": false},
